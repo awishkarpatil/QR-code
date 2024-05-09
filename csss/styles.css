@@ -1,0 +1,42 @@
+body{
+    background-color:hsl(212, 45%, 89%);
+}
+.qr{
+    text-align: center;
+    width: 200px;
+    margin: 40px auto auto;
+    img{
+        width: 200px;
+        margin: 0px;
+        border-radius: 10px;
+        background-color: hsl(0, 0%, 100%);
+    }
+    border-width: 16px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 10px;
+    h3{
+        font-size: 16px;
+        width: 200px;
+        color:hsl(218, 44%, 22%);
+        background-color: hsl(0, 0%, 100%);
+        padding-top: 10px;
+        margin: 0px;
+        font-weight: 700;
+    }
+    p{
+        font-size: 13px;
+        width: 200px;
+        margin: 5% auto 0;
+        color: hsl(220, 15%, 55%);
+        background-color: hsl(0, 0%, 100%);
+        padding-top: 10px;
+        margin-top: 0;
+        font-weight: 400;
+    }
+
+}
+.attribution{
+    position: relative;
+    top: 200px;
+}
